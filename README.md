@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Muhammad Tayyab from pakistan
-1. - 👀 I’m a fullStack MERN developer with experienced in Rect, Next, Gatsbyjs, Express, Nodejs, Nest, Multiple UI's in React, React-native, aws and deployments, I’m interested in Web development, learning new tools and technologies 
+1. - 👀 I’m a fullStack MERN developer with experienced in React, Next, Gatsbyjs, Express, Nodejs, Nest, Multiple UI's in React, React-native, aws and deployments, I’m interested in Web development, learning new tools and technologies 
 - 🌱 I’m currently learning aws
 - 💞️ I’m working as Senior Mernstack developer and i have 2.8 years experience as Mernstack
 
